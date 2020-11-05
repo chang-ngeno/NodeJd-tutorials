@@ -20,5 +20,6 @@
     "TypeScript"
   ],
   "author": "Daniel C.",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {}
 }
