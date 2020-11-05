@@ -1,2 +1,2 @@
-
-node_modules/*
+# project folders
+example1/node_module/**
